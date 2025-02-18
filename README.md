@@ -7,7 +7,7 @@ This is a Vite project.
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/vite-project.git
+git clone https://github.com/aquinnos/vite-project.git
 cd vite-project
 npm install
 ```
