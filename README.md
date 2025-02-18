@@ -1,13 +1,13 @@
-# Vite Project
+# Movie Database Vite Project
 
-This is a Vite project.
+This project leverages the power of Vite to create a fast and modern development experience. It serves as a comprehensive movie database where users can search for movies, view detailed information, and discover new films. The project combines a quick build process with a dynamic user interface to offer an interactive and responsive platform.
 
 ## Getting Started
 
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/vite-project.git
+git clone https://github.com/aquinnos/moviedatabase.git
 cd vite-project
 npm install
 ```
